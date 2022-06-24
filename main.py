@@ -8,3 +8,4 @@ else:
 
 print("Пугль-Вугль")
 print("Ave Maria!")
+print("ОАДВОПШЩОВДОПМЩДРОВАщ")
